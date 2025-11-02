@@ -128,5 +128,5 @@ Develop a web interface using Flask/Streamlit for easy demo.
 
 Enable real-time handwriting recognition via webcam input.
 
-👨‍💻 Author
+--- Author
 Dilip Kannan
