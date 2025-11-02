@@ -1,0 +1,74 @@
+
+__pycache__/
+saved_models/
+outputs/
+.vscode/
+*.pyc
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# --- Virtual Environment ---
+venv/
+env/
+.venv/
+.env/
+
+# --- IDE / Editor ---
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# --- OS Generated Files ---
+.DS_Store
+Thumbs.db
+
+# --- Checkpoints / Model Files ---
+*.pth
+*.pt
+*.h5
+checkpoints/
+models/
+outputs/
+runs/
+
+# --- Dataset / Large Data Files ---
+data/
+datasets/
+images/
+raw_data/
+*.zip
+*.tar
+*.tar.gz
+
+# --- Logs ---
+logs/
+*.log
+
+# --- Jupyter Notebook Checkpoints ---
+.ipynb_checkpoints/
+
+# --- Cache / Temporary Files ---
+*.tmp
+*.bak
+*.swp
+*.swo
+.cache/
+__cache__/
+
+# --- Results / Plots ---
+results/
+*.png
+*.jpg
+
+# --- Configuration / Local Files ---
+config.json
+.env.local
